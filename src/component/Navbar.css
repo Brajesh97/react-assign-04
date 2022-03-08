@@ -1,0 +1,16 @@
+.nav{
+    width:100%;
+    background-color: rgb(83, 167, 57);
+    height:50px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.x{
+    color:rgb(31, 5, 5);
+    text-decoration: none;
+    font-size: 24px;
+}
+.x:hover{
+    color:rgb(217, 214, 231);
+}
